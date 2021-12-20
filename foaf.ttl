@@ -26,5 +26,3 @@ _:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 <http://www.w3.org/1999/02/22-rd
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <http://courses.finki.ukim.mk/> .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/homepage> <http://github.com/dimitar-papalazov> .
-
-Process finished with exit code 0

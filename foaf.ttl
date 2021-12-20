@@ -18,7 +18,7 @@ _:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 <http://www.w3.org/1999/02/22-rd
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:B7fae7490X2D5ceeX2D483cX2Da118X2D6b31b80344c0 .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://finki.ukim.mk/> .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/phone> <tel:+38975835665> .
-<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/depiction> <http://scontent.fskp2-1.fna.fbcdn.net/v/t1.6435-9/70594221_2441220982790679_5571184778960437248_n.jpg?_nc_cat=110;ccb=1-5;_nc_sid=09cbfe;_nc_ohc=ak2TTkgVS7gAX-Bhv-p;_nc_ht=scontent.fskp2-1.fna;oh=00_AT90hbRIA36l75Z2wi-R0ur2U3-XoxXqGqXeth29CEDo6A;oe=61E7F497> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/depiction> <http://scontent.fskp2-1.fna.fbcdn.net/v/t1.6435-9/70594221_2441220982790679_5571184778960437248_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ak2TTkgVS7gAX-Bhv-p&_nc_ht=scontent.fskp2-1.fna&oh=00_AT90hbRIA36l75Z2wi-R0ur2U3-XoxXqGqXeth29CEDo6A&oe=61E7F497> .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/family_name> "Papalazov" .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <http://gimnazija-jbt-bitola.edu.mk/> .
 <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/givenname> "Dimitar" .

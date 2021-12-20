@@ -15,12 +15,12 @@
   foaf:mbox_sha1sum "1da7314ea2e83072d249ec2a38055fd83674ec33" ;
   foaf:title "Comrade" ;
   foaf:knows [
-    rdfs:seeAlso <https://raw.githubusercontent.com/AngelaSotirovska/foaf/main/foaf.ttl> ;
+    rdfs:seeAlso <http://raw.githubusercontent.com/AngelaSotirovska/foaf/main/foaf.ttl> ;
     foaf:mbox_sha1sum "220aadca4b47e4e79173a5a105fd4617441ddac9" ;
     foaf:name "Angela Sotirovska" ;
     a foaf:Person
   ], [
-    rdfs:seeAlso <https://raw.githubusercontent.com/GeorgievskaEmilija/wbs-foaf/master/foaf.ttl> ;
+    rdfs:seeAlso <http://raw.githubusercontent.com/GeorgievskaEmilija/wbs-foaf/master/foaf.ttl> ;
     foaf:mbox_sha1sum "b0d03fce499aa7696467ed1d15012b2cfccc1f52" ;
     foaf:name "Emilija Georgievska" ;
     a foaf:Person

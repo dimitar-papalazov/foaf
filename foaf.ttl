@@ -27,7 +27,7 @@
   ] ;
   foaf:workplaceHomepage <http://finki.ukim.mk/> ;
   foaf:phone <tel:+38975835665> ;
-  foaf:depiction <http://scontent.fskp2-1.fna.fbcdn.net/v/t1.6435-9/70594221_2441220982790679_5571184778960437248_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ak2TTkgVS7gAX-Bhv-p&_nc_ht=scontent.fskp2-1.fna&oh=00_AT90hbRIA36l75Z2wi-R0ur2U3-XoxXqGqXeth29CEDo6A&oe=61E7F497> ;
+  foaf:depiction <http://www.facebook.com/photo/?fbid=2441220976124013&set=a.1374827232763398> ;
   foaf:family_name "Papalazov" ;
   foaf:schoolHomepage <http://gimnazija-jbt-bitola.edu.mk/> ;
   foaf:givenname "Dimitar" ;

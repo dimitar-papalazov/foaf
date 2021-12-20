@@ -1,0 +1,30 @@
+_:B7fae7490X2D5ceeX2D483cX2Da118X2D6b31b80344c0 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/AngelaSotirovska/foaf/main/foaf.ttl> .
+_:B7fae7490X2D5ceeX2D483cX2Da118X2D6b31b80344c0 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "220aadca4b47e4e79173a5a105fd4617441ddac9" .
+_:B7fae7490X2D5ceeX2D483cX2Da118X2D6b31b80344c0 <http://xmlns.com/foaf/0.1/name> "Angela Sotirovska" .
+_:B7fae7490X2D5ceeX2D483cX2Da118X2D6b31b80344c0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/GeorgievskaEmilija/wbs-foaf/master/foaf.ttl> .
+_:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 <http://xmlns.com/foaf/0.1/mbox_sha1sum> "b0d03fce499aa7696467ed1d15012b2cfccc1f52" .
+_:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 <http://xmlns.com/foaf/0.1/name> "Emilija Georgievska" .
+_:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl> <http://xmlns.com/foaf/0.1/primaryTopic> <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl> <http://xmlns.com/foaf/0.1/maker> <http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/nick> "Papa" .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/name> "Dimitar Papalazov" .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "1da7314ea2e83072d249ec2a38055fd83674ec33" .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/title> "Comrade" .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:B7fae7490X2D5ceeX2D483cX2Da118X2D6b31b80344c0 .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://finki.ukim.mk/> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/phone> <tel:+38975835665> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/depiction> <http://scontent.fskp2-1.fna.fbcdn.net/v/t1.6435-9/70594221_2441220982790679_5571184778960437248_n.jpg?_nc_cat=110;ccb=1-5;_nc_sid=09cbfe;_nc_ohc=ak2TTkgVS7gAX-Bhv-p;_nc_ht=scontent.fskp2-1.fna;oh=00_AT90hbRIA36l75Z2wi-R0ur2U3-XoxXqGqXeth29CEDo6A;oe=61E7F497> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/family_name> "Papalazov" .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <http://gimnazija-jbt-bitola.edu.mk/> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/givenname> "Dimitar" .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:B3a8f4a6fX2D6537X2D45baX2Da292X2D60a3bde66196 .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <http://courses.finki.ukim.mk/> .
+<http://raw.githubusercontent.com/dimitar-papalazov/foaf/master/foaf.ttl#me> <http://xmlns.com/foaf/0.1/homepage> <http://github.com/dimitar-papalazov> .
+
+Process finished with exit code 0
